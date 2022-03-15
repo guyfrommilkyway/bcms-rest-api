@@ -1,1 +1,1 @@
-bams-rest-api
+bcms-rest-api
